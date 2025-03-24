@@ -1,0 +1,26 @@
+.main-text {
+    color: #333; /* Dark gray text color */
+    font-family: 'Open Sans', sans-serif; /* Different font */
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px 0; /* Margin top and bottom */
+    padding: 10px; /* Padding around the element */
+}
+
+/* Define an ID for a specific element styling */
+#header {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid #e0e0e0; /* Border at the bottom */
+}
+
+/* Style an image with a class */
+.image-style {
+    display: block;
+    margin: auto; /* Center the image */
+    border: 15px solid #333; /* Border around the image */
+    padding: 5px; /* Padding inside the border */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Drop shadow effect */
+}
